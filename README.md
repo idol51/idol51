@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=idol51)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
 <!--
